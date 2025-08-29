@@ -36,3 +36,9 @@ Explain your project in more detail. What problem does it solve? What technologi
 ```bash
 git clone https://github.com/your-username/project-name.git
 cd project-name
+
+
+cd project-name
+cd project-name
+cd project-name
+cd project-name
